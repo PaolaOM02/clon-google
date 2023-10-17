@@ -147,9 +147,9 @@ footer ul{
     display: flex;
     padding-left: 0px;
 }
+/*pie de pagina en la parte de listas*/
 footer ul li a{
     color: #70757a;
     margin: 10px;
     padding-bottom: 10px;
-
 }
