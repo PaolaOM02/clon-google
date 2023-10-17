@@ -4,7 +4,7 @@ Proyecto creado en **Tecnolochicas Pro** simulando la página principal del nave
 Poniendo en practica lo aprendido en el bootcamp logré realizar un clon del explorador de google
 ## 1. Intro
 El proyecto fue creado con **HTML y CSS** se trata del navegador más usado, la interfaz de Google
-* Puedes visitar el sitio del siguiente enlace[]
+* Puedes visitar el sitio del siguiente enlace
 ![Clon de google](imagenes/CapturaClon.png)
 **Inspirate de la realización de este proyecto, utiliza tu destreza y aprendizaje para demostrar que tu futuro es ser desarrolladora frontend 💪**
 
